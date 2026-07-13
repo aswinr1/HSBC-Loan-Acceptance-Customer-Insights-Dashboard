@@ -86,5 +86,5 @@ This dashboard analyzes customer behavior and loan acceptance patterns using HSB
 ---
 
 ## 🏷️ Author
-Created by **Aswin** — Data Analytics & Dashboard Design  
+Created by **Aswin R Kumar** — Data Analytics & Dashboard Design  
 📍 Bengaluru, India  
